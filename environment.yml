@@ -1,0 +1,24 @@
+name: info615
+
+channels:
+  - conda-forge
+
+dependencies:
+  - beautifulsoup4
+  - cartopy
+  - contextily
+  - dill
+  - folium
+  - geopandas
+  - jupyterlab
+  - mapclassify
+  - osmnx
+  - pandas
+  - pysal
+  - python
+  - rasterio
+  - rtree
+  - seaborn
+  - scikit-learn
+  - scipy
+  - statsmodels
