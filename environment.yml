@@ -6,3 +6,4 @@ channels:
 dependencies:
   - python == 3.*
   - jupyterlab
+  - jupyter_server
